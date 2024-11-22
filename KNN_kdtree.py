@@ -2,7 +2,7 @@ import numpy as np
 import time
 from collections import Counter
 
-
+# test
 # kd-tree每个结点中主要包含的数据结构如下
 class Node():
     def __init__(self, data, label, depth=0, lchild=None, rchild=None):
